@@ -1,9 +1,11 @@
-## <img width="27" height="27" alt="image" src="https://github.com/user-attachments/assets/7765d5a6-0180-4894-b122-ead39cdb3a19" /> Amanda Gontijo
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/2c3bdbac-5734-420c-b5bc-bbd95b272737" /> Amanda Gontijo
 
-**`Analista de Infraestrutura`**
+*`Analista de Infraestrutura`*
 
-Me chamo Amanda Cavalcante Gontijo, tenho 25 anos e sou natural de Minas Gerais. Atualmente estudo Análise e Desenvolvimento de Sistemas - Tecnólogo pela Newton Paiva, com foco no momento em infraestrutura de redes. 
-  
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ae5772f9-c19a-4b38-9076-f2a512a20ab3" />
+Atualmente estou trabalhando no desenvolvimento de um site com HTML e CSS para projeto da faculdade. Nos meus repositórios também é apresentado cards de resumos sobre infraestrutura e arquivos de atividades realizadas no Packet Tracer.<br><br>
+Hobbies: faço gameplay do jogo Just Dance que é postado no canal do Youtube <a href="https://www.youtube.com/kelvinjaeder">Kelvin Jaeder</a>. O link de um dos vídeos está no botão abaixo. 
+
   ##
  
 <div> 
