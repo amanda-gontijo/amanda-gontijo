@@ -4,7 +4,7 @@
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ae5772f9-c19a-4b38-9076-f2a512a20ab3" />
 Atualmente, estou desenvolvendo um site em HTML e CSS como parte de um projeto acadêmico.<br>
-Nos meus repositórios, também compartilho cards com resumos sobre infraestrutura de redes e arquivos de atividades práticas realizadas no Packet Tracer.<br><br>
+
 
   ##
  
